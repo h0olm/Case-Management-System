@@ -11,17 +11,17 @@ Navigation:
 
 
 Working:
--Adding a case
--Displaying all cases
--Comment a specific  case
--Removing a specific  case
--Change status
--All necessary SQL
--Navigation between views
--Display comments bind to specific a case
+- Adding a case
+- Displaying all cases
+- Comment a specific  case
+- Removing a specific  case
+- Change status
+- All necessary SQL
+- Navigation between views
+- Display comments bind to specific a case
 
 Future:
--Better UI
--Easier navigation
--Seperate View and Edit pages
--User Login
+- Better UI
+- Easier navigation
+- Seperate View and Edit pages
+- User Login
